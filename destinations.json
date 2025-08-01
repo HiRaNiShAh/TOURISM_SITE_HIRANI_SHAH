@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Munnar",
+    "description": "A beautiful hill station with tea gardens.",
+    "image": "https://source.unsplash.com/600x400/?munnar"
+  },
+  {
+    "name": "Alleppey",
+    "description": "Famous for backwaters and houseboats.",
+    "image": "https://source.unsplash.com/600x400/?alleppey"
+  }
+]
